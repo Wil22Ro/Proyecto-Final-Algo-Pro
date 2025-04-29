@@ -1,4 +1,4 @@
-# Proyecto-Final-Algoritmia-y-programaciòn
+# Proyecto Final *Algoritmia y Programaciòn*
 
 
 ## Integrantes:
