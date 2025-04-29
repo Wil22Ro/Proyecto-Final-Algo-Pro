@@ -20,7 +20,7 @@
 
 ### El Objetivo de este proyecto es ofrecer un sistema robusto, eficiente y amigable que facilite la adminictracion diaria del parqueadero, elimine la gestion manual en papel, mejore el control del flujo vehicular y permita una facil auditoria administrativa.
 
-                    [![Logo-Easyparking.jpg](https://github.com/Leibmanjr/Proyecto-Final-Algo-Pro/blob/6f9ab53a7550ce20a5f118ad4d7516999cb0eaa7/Logo%20Easyparking.jpg)]
+# [![Logo-Easyparking.jpg](https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q)
                                                
          
 
