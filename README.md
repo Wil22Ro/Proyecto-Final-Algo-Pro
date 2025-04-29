@@ -22,7 +22,7 @@
 
 # [![Logo-Easyparking.jpg](https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q)
 <a href = "https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg">
-<imag src = "https://postimg.cc/KK0bQ69Q" alt = "Logo-Easyparking.jpg" width="200"/>
+<imag src="https://i.postimg.cc/Qt3MNscL/Logo-Easyparking.jpg)](https://postimg.cc/KK0bQ69Q" alt = "Logo-Easyparking.jpg" width="200" height="100">
                                                
          
 
