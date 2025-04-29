@@ -9,7 +9,7 @@
 
 
 
-## Nombre del proyecto: 
+  ## Nombre del proyecto: EasyParking "¡Rapido, sencillo y a tu medida!"
 ### El proyecto consiste en el desarrollo de un software de consola en Python para gestionar el parqueadero de la *Universidad de Antioquia*, *permitiendo solo el ingreso de automoviles* "no motos". El software tiene funcionales para:
 #### - Registrar usuarios (con validacion estrictas de datos).
 #### - Ingresar y retirar vehiculos (resgistrando horas y generando cobros segun el tiempo del parqueo).
@@ -19,3 +19,4 @@
 #### - Incluir un modo de acceso especial para administradores mediante usuarios y contraseña.
 
 ### El Objetivo de este proyecto es ofrecer un sistema robusto, eficiente y amigable que facilite la adminictracion diaria del parqueadero, elimine la gestion manual en papel, mejore el control del flujo vehicular y permita una facil auditoria administrativa.
+
